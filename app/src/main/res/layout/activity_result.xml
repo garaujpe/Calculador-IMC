@@ -24,7 +24,7 @@
     <TextView
         android:id="@+id/Resultado_TXV"
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="120dp"
         android:gravity="center"
         android:textSize="32sp"
